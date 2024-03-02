@@ -1,0 +1,20 @@
+.headerFrameTitle{
+    background-color: rgb(145, 72, 228);
+}
+
+.headerFrameContainer{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    border: 1px solid grey;
+    height: 95vh;
+    background-color: rgba(214, 213, 213, 0.685);
+}
+
+.headerFrameContainer > div:nth-child(1){
+    width:100%;
+}
+
+.headerFrameContainer>div:nth-child(2){
+    margin-top: 30px;
+}

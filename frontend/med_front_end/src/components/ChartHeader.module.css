@@ -1,0 +1,12 @@
+.charHeader{
+    display: flex;
+    justify-content: left;
+    padding:5px;
+    background-color: rgba(128, 128, 128, 0.562);
+}
+
+.datechanger{
+    margin:2px;
+    font-weight: bold;
+    cursor: pointer;
+}

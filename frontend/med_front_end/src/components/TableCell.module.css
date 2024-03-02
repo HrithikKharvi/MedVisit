@@ -1,0 +1,9 @@
+.tableCell {
+    width:100px;
+    height:70px;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color:white;
+    font-size: 18px;
+}

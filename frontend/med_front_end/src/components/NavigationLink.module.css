@@ -1,0 +1,21 @@
+ul li > a{
+    display:block;
+    font-size:16px;
+    letter-spacing: 2px;
+    height: 100%;
+    text-align: center;
+    padding-top:10px;
+    color:black;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+}
+a:hover,.active{
+    background-color: rgb(145, 72, 228);
+}
+
+.navBar{
+    width:80%;
+    height:6vh;
+}
+
